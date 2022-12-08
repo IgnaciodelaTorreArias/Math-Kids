@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Maths Kids</string>
+    <string name="level1">Nivel 1 (Suma y resta)</string>
+    <string name="level2">Nivel 2 (Multiplicacion y division)</string>
+    <string name="level3">Nivel 3 (Exponentes, Raices y puertas logicas)</string>
+    <string name="answer">Respuesta</string>
+    <string name="checkAnswer">Revisar</string>
+    <string name="correctAnswer">La respuesta es CORRECTA!!!</string>
+    <string name="incorrectAnswer">La respuesta es INCORRECTA!!!</string>
+    <string name="badAnswer">Ingresa un dato valido</string>
+</resources>
